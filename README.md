@@ -1,4 +1,4 @@
-Contributing to Undecided Title
+Contributing to BroOS
 =====================
 
 ### Install git 
