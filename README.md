@@ -25,31 +25,7 @@ git checkout master
 git pull upstream master
 git checkout -b my-feature-branch
 ```
-### Build and Test
 
-```
-To get started with app
-you guys need to install node js and 'vs studio' in your system 
-and install follwing as I am mention 
-
-In backend folder , type following in your vs-code terminal 
-npm i bcryptjs    
-npm install --save express-validator
-npm install -g nodemon    
-npm i -D nodemon                   
-npm i mongoose    
-npm i express
-
-In main directory
-npm i react-router-dom
-npm i react-router-dom concurrently       
-npm init      
-npx init      
-npm install express --save   
-npm install --save gh-pages
-npm install react-scripts
-npm install socket.io
-```
 ### Write Code
 
 Implement your feature or bug fix.
